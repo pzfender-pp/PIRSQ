@@ -1,0 +1,6 @@
+# INSTALLATION
+``` 
+    yarn
+    yarn start
+
+```
